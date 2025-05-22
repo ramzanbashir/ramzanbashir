@@ -33,14 +33,6 @@
 | Quiz App | Basic HTML/CSS/JS quiz with score tracking | HTML, CSS, JS |
 
 
-📊 GitHub Stats
-
-<p align="center">
-📊 GitHub Stats
-
-https://github.com/ramzanbashir
-</p>
-
 
 📫 Connect With Me
 
