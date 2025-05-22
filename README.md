@@ -36,8 +36,11 @@
 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github.com/ramzanbashir" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="170"/>
+📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
 </p>
 
 
