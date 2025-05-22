@@ -1,11 +1,53 @@
-<h1 align="center">Hi 👋, I'm MUHAMMAD RAMZAN</h1>
-<h3 align="center">A passionate frontend developer from PAKISTAN</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Ramzan</h1>
+<h3 align="center">A passionate BBA Student & Frontend Web Developer</h3>
 
-- 🌱 I’m currently learning **Javascrit**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0CFF72&center=true&vCenter=true&width=435&lines=I+love+building+web+apps;Frontend+Development+%7C+UI+%26+UX;Learning+JavaScript+%7C+Bootstrap+%7C+Tailwind" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+
+ 🧑‍💻 About Me
+
+ 🎓 I'm a BBA 8th Semester Student, Section B  
+ 💻 I love working on frontend projects using **HTML, CSS, JavaScript**  
+ 📚 Currently learning advanced **UI/UX and LocalStorage-based web apps**  
+ 🔭 Projects: Stopwatch App, Alarm App, Food Panda Clone, Quiz App  
+✨ Open to learning and collaborating on exciting web projects!
+
+
+🛠️ Skills & Tools
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+📂 My Projects
+
+| Stopwatch App | A fully functional stopwatch with lap system | HTML, CSS, JS, LocalStorage |
+| Alarm Clock | A digital alarm with snooze and Azaan sound | HTML, Bootstrap, JS |
+| FoodPanda Clone | A complete customer & admin web app | HTML, Tailwind, JS, LocalStorage |
+| Quiz App | Basic HTML/CSS/JS quiz with score tracking | HTML, CSS, JS |
+
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+
+📫 Connect With Me
+
+ Email: ramzanarayi123@gmail.com
+ LinkedIn: https://www.linkedin.com/in/muhammad-ramzan-ab5b75227/
+
+  
+ GitHub: https://github.com/ramzanbashir
+
+
+⭐️ Thanks for visiting my GitHub profile! Let's build amazing things together!_
